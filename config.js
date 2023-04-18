@@ -6,12 +6,12 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['17178028556']  
+global.mods = ['19898183567'] 
+global.prems = ['6285834327868']
 /*Nomor Owner & payment*/
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.nameowner = 'Riski'
+global.numberowner = '17178028556' 
 global.mail = 'tioclkp02@gmail.com' //enter your email 🗿
 global.dana = '6281395861695'
 global.pulsa = '6281395861695'
@@ -25,7 +25,7 @@ global.instagram = 'https://instagram.com/prm2.0'
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
 global.btc = 'Admin'
-global.apikeyaAi = 'ISI_API_OPENAI_DI_SINI' //fill apikey openai here (register https://beta.openai.com/)
+global.apikeyaAi = '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' //fill apikey openai here (register https://beta.openai.com/)
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
 global.wm2 = '⫹⫺ R-TXZY-MD'
